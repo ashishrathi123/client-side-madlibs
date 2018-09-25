@@ -6,4 +6,6 @@ adjectives = adjectives.concat([
 	'stupid',
 	'beautiful',
 	'wonderful'
+    'dopey',
+    'funny'
 ]);

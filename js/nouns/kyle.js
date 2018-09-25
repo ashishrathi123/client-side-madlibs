@@ -5,4 +5,5 @@ nouns = nouns.concat([
 	'donkey',
 	'Aaron',
 	'Tanon'
+    'bananas'
 ]);
